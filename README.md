@@ -1,76 +1,92 @@
 
 # Project Title
 
-Home Education
+Marvel Movie Website
 
 
 ## 🚀 About Project
 
-**•** Building a Comprehensive Learning Platform with HTML, CSS, Java, and JavaScript for the front end and the back end will be designed by MySQL service.
+**•** Handled the development of the Marvel Movie Website, demonstrating proficiency in HTML, CSS, TypeScript, and Bootstrap.
 
-**•** To improve existing Home education for small children.
+**•**  Designed a visually appealing and responsive interface with dynamic content and implementation of responsive RESTful APIs.
 
+**•**  I achieved project completion in a rigid timeframe, showcasing efficiency and dedication.
 
+#
 ## Project Output
 
 
-**•** Login and Registration Form
+**•** HOME PAGE
 
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (1).png">
+    <img alt="" src="outputImages/Screenshot (641).png">
 </picture>
 
 
-**•** HomePage
+**•** HomePage - Carousel Movies
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (4).png">
+    <img alt="" src="outputImages/Screenshot (1651).png">
 </picture>
 
 
-**•** Calculator
+**•** HomePage - Latest Movies
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (9).png">
+    <img alt="" src="outputImages/Screenshot (1652).png">
 </picture>
 
 
-**•** Sticky Notes
+**•** HomePage - Movies Details
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (10).png">
+    <img alt="" src="outputImages/Screenshot (1653).png">
 </picture>
 
 
-**•** Subject Page
+**•** HomePage - Movies Price
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (11).png">
+    <img alt="" src="outputImages/Screenshot (1654).png">
 </picture>
 
 
-**•** Class 1
+**•** HomePage - footer
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (1650).png">
+    <img alt="" src="outputImages/Screenshot (1651).png">
 </picture>
 
 
-**•** Database
+**•** Register Page:
 
 <picture>
-    <img alt="" src="outputImages/Screenshot (12).png">
+    <img alt="" src="outputImages/Screenshot (644).png">
+</picture>
+
+
+**•** Login Page
+
+<picture>
+    <img alt="" src="outputImages/Screenshot (642).png">
+</picture>
+
+
+**•** Forget Page:
+
+<picture>
+    <img alt="" src="outputImages/Screenshot (643).png">
 </picture>
 
 
 ## 🛠 Skills
-Java, Jframe...
+Java, HTML, CSS, TypeScript, Bootstrap, MYSQL...
 
 
 ## Tech Stack
 
-**Client:** NetBeans IDE 8.2
+**Client:**  Angular
 
-**Server:** XAMPP, PhpMyAdmin
+**Server:**  Eclipse, MYSQL Workbench 8.0
 
